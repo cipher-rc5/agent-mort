@@ -1,4 +1,6 @@
-# Eliza
+# [E]liza
+
+Instance initially sourced from: https://github.com/elizaOS/eliza-starter
 
 ## Edit the character files
 
